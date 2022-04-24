@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683323866944",
+    "project_id": "baith7-ccfcf",
+    "storage_bucket": "baith7-ccfcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683323866944:android:9cef868709e6f8cfdc44a5",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683323866944-3s8u60kiqq5kiuj99s97edbff17ggi1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6YJ-uXkGZ1CMBxwD-ZOwrXZfjBcLYMS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683323866944-3s8u60kiqq5kiuj99s97edbff17ggi1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
